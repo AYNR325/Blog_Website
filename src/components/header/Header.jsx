@@ -17,6 +17,10 @@ function Header() {
     setNav(false);  // Close the sidebar
   };
 
+  const handlelogout = () => {
+    setNav(false); // Close the sidebar
+  }
+
   const navItems = [
     {
       name: "Home",
@@ -70,7 +74,9 @@ function Header() {
             )}
             {authStatus && (
               <li>
+                <button onClick={handlelogout}>
                 <LogoutBtn />
+                </button>
               </li>
             )}
           </ul>
@@ -110,7 +116,9 @@ function Header() {
             )}
             {authStatus && (
               <li>
+                <button onClick={handlelogout}>
                 <LogoutBtn />
+                </button>
               </li>
             )}
           </ul>
