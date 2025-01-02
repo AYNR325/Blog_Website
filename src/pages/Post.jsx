@@ -147,7 +147,7 @@ export default function Post() {
             <img
               src={appwriteService.getFilePreview(post.featuredimage)}
               alt={post.title}
-              className="rounded-xl w-[250px] h-[250px]"
+              className="rounded-xl w-[250px] h-[250px] aspect-w-4 aspect-h-3"
             />
           </div>
           <div className="w-full mb-6">
