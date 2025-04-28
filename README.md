@@ -35,7 +35,7 @@ Visit the live application at: [Blogis](https://blog-website-taupe-one.vercel.ap
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/blog-withappwrite.git
+   git clone https://github.com/AYNR325/Blog_Website.git
    cd blog-withappwrite
    ```
 
