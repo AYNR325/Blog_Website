@@ -6,6 +6,10 @@ A modern blog application built with React and Appwrite, featuring a beautiful U
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+## 🌐 Live Demo
+
+Visit the live application at: [Blogis](https://blog-website-taupe-one.vercel.app/)
+
 ## 🚀 Features
 
 - 📝 Create, edit, and delete blog posts
@@ -74,7 +78,7 @@ src/
 
 ## 👤 Author
 
-Your Name
+Ayush Rokade
 - GitHub: [@AYNR325](https://github.com/AYNR325)
 
 ---
